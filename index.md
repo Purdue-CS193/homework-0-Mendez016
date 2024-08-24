@@ -37,3 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Luis Santiago Mendez Perez`s First CS193 Homework
+
+Things I like about CS193:
+- Introduces students to necessary tools for the programming and tech industry.
+- Is from students to students.
+- The professor has a good mood.
+- Is a class that complements other programming courses.
